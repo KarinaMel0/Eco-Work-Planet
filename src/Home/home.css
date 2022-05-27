@@ -1,0 +1,76 @@
+@import '../pages-components/Styles/Variables.Css';
+
+
+
+body {
+  background:var(--background-color);
+}
+
+#root {
+  width: 100vw;
+  height: 100vh;
+}
+
+
+#container-video iframe{
+ border: solid 10px #212730;
+ width: 310px;
+ height: 177px;
+}
+.home-main {
+  width: 22rem;
+  height: 44rem;
+  margin: auto;
+  margin-top: 1.5rem;
+  background: var(--shadow);
+  border-radius: 0.6rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.link-pages {
+  text-decoration: none;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 2rem;
+  padding: 0.5rem;
+  margin: 2.5rem;
+  border-radius: 0.6rem;
+  background-color: #3C4A5F;
+  box-shadow: 5px 5px 5px rgb(0 0 0 / 25%);
+  width: 75%;
+
+}
+
+.home-title {
+  font-weight: 400;
+  font-size: 1rem;
+  text-align: center;
+  line-height: 2rem;
+  color: var(--font-color);
+}
+
+
+video {
+  width: 90%;
+  margin: 1rem;
+
+}
+
+a {
+  text-decoration: none;
+  color:var(--font-color);
+}
+@media only screen and (max-width: 503px){
+  .home-main{
+    width: 19rem;
+    height: 45rem;
+  }
+  #container-video iframe{
+    width: 290px;
+    height: 180px;
+   }
+}
