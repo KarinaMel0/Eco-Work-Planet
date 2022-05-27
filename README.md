@@ -78,89 +78,89 @@ Com base nas pesquisas chegamos nas seguintes histórias de usuários:
 
 ### HTML
 
-- [ ] **Uso de HTML semântico**
+- [x] **Uso de HTML semântico**
 
 ### CSS
 
-- [ ] **Uso de seletores de CSS**
+- [x] **Uso de seletores de CSS**
 
-- [ ] **Empregar o modelo de caixa (box model): borda, margem, preenchimento**
+- [x] **Empregar o modelo de caixa (box model): borda, margem, preenchimento**
 
-- [ ] **Uso de flexbox en CSS**
+- [x] **Uso de flexbox en CSS**
 
 ### Web APIs
 
-- [ ] **Uso de seletores de DOM**
+- [x] **Uso de seletores de DOM**
 
-- [ ] **Gerenciamento de eventos de DOM**
+- [x] **Gerenciamento de eventos de DOM**
 
-- [ ] **Manipulação dinâmica de DOM**
+- [x] **Manipulação dinâmica de DOM**
 
-- [ ] **Routing (History API, evento hashchange, window.location)**
+- [x] **Routing (History API, evento hashchange, window.location)**
 
 ### JavaScript
 
-- [ ] **Manipular arrays (filter, map, sort, reduce)**
+- [x] **Manipular arrays (filter, map, sort, reduce)**
 
-- [ ] **Manipular objects (key | value)**
+- [x] **Manipular objects (key | value)**
 
-- [ ] **Uso de condicionais (if-else, switch, operador ternário)**
+- [x] **Uso de condicionais (if-else, switch, operador ternário)**
 
-- [ ] **Uso de laços (for, for..of, while)**
+- [x] **Uso de laços (for, for..of, while)**
 
-- [ ] **Uso de funções (parâmetros, argumentos, valor de retorno)**
+- [x] **Uso de funções (parâmetros, argumentos, valor de retorno)**
 
-- [ ] **Testes unitários**
+- [x] **Testes unitários**
 
-- [ ] **Testes assíncronos**
+- [x] **Testes assíncronos**
 
-- [ ] **Mocking**
-- [ ] **Uso ES modules**
+- [x] **Mocking**
+- [x] **Uso ES modules**
 
-- [ ] **Uso de linter (ESLINT)**
+- [x] **Uso de linter (ESLINT)**
 
-- [ ] **Uso de identificadores descritivos (Nomenclatura | Semântica)**
+- [x] **Uso de identificadores descritivos (Nomenclatura | Semântica)**
 
-- [ ] **Diferença entre expression e statements**
+- [x] **Diferença entre expression e statements**
 
-- [ ] **Uso de callbacks**
+- [x] **Uso de callbacks**
 
-- [ ] **Promise**
+- [x] **Promise**
 
 ### Git e GitHub
 
-- [ ] **Git: Instalação e configuração**
+- [x] **Git: Instalação e configuração**
 
-- [ ] **Git: Controle de versão com git (init, clone, add, commit, status, push, pull, remote)**
+- [x] **Git: Controle de versão com git (init, clone, add, commit, status, push, pull, remote)**
 
-- [ ] **Git: Integração de mudanças entre ramos (branch, checkout, fetch, merge, reset, rebase, tag)**
+- [x] **Git: Integração de mudanças entre ramos (branch, checkout, fetch, merge, reset, rebase, tag)**
 
-- [ ] **GitHub: Criação de contas e repositórios, configuração de chave SSH**
+- [x] **GitHub: Criação de contas e repositórios, configuração de chave SSH**
 
-- [ ] **GitHub: Implantação com GitHub Pages**
-- [ ] **GitHub: Colaboração pelo Github (branches | forks | pull requests | code review | tags)**
+- [x] **GitHub: Implantação com GitHub Pages**
+- [x] **GitHub: Colaboração pelo Github (branches | forks | pull requests | code review | tags)**
 
-- [ ] **GitHub: Organização pelo Github (projects | issues | labels | milestones | releases)**
+- [x] **GitHub: Organização pelo Github (projects | issues | labels | milestones | releases)**
 
 ### user-centricity
 
-- [ ] **Desenhar a aplicação pensando e entendendo a usuária**
+- [x] **Desenhar a aplicação pensando e entendendo a usuária**
 
 ### product-design
 
-- [ ] **Criar protótipos para obter feedback e iterar**
+- [x] **Criar protótipos para obter feedback e iterar**
 
-- [ ] **Aplicar os princípios de desenho visual (contraste, alinhamento, hierarquia)**
+- [x **Aplicar os princípios de desenho visual (contraste, alinhamento, hierarquia)**
 
 ### research
 
-- [ ] **Planejar e executar testes de usabilidade**
+- [x] **Planejar e executar testes de usabilidade**
 
 ### Firebase
 
-- [ ] **Firebase Auth**
+- [x] **Firebase Auth**
 
-- [ ] **Firestore**
+- [x] **Firestore**
 
 ---
 
