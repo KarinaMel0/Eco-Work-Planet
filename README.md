@@ -235,12 +235,4 @@ Realizar os testes unitários `$ npm test or yarn test`
     </td>
   </tr>
  <tr>
-    <td align="center">
-      <a href="https://github.com/natalieiss">
-  <img align="center" alt="Natalie"  width="100px;" style="border-radius:50px;" src="https://avatars.githubusercontent.com/u/97197240?v=4.png"> <br>       
-  <sub>
-          <b>Natalie Silva</b>
-        </sub>
-      </a>
-    </td>
 </table>
